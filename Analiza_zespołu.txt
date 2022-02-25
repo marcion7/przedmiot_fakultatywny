@@ -1,0 +1,7 @@
+﻿Analiza zespołu
+
+Budżet na osobę: jeden dzień w tygodniu, 2-10h na tydzień, zależny od trudności zadania i osoby która ma to zadanie.
+
+Cel projektu:  stworzenie aplikacji, dającej zestaw narzędzi do zarządzania pracą w biurze konstrukcyjnym.
+
+Odpowiedzialności: będą dogadywane na dniach, jeszcze nie mamy podziału.
